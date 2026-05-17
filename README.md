@@ -5,10 +5,6 @@
 - Job Recommendation
 - Skill Extraction
 
-## Technologies
-- Python
-- Streamlit
-- Pandas
+## Screenshot
 
-## Run Project
-streamlit run app.py
+![Project Screenshot](AI-Resume-Analyzer.png)
