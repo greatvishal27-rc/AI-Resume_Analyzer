@@ -7,4 +7,4 @@
 
 ## Screenshot
 
-![Project Screenshot](c:\Users\shrey vishal\Downloads\AI-Resume-Analyzer.png)
+![Project Screenshot](AI-Resume-Analyzer.png)
